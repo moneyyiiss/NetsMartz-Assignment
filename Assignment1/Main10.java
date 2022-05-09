@@ -1,4 +1,8 @@
-
+//10.  Create class box and box3d. box3d is extended class of box. The
+//two classes going to pull fill following requirement
+//Include constructor.
+//set value of length, breadth, height Find out area and volume.
+//Note: Base class and sub classes have respective methods and instance variables.
 
 class Main10{
 	public static void main(String[] args) {

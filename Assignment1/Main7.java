@@ -1,3 +1,4 @@
+//7. Write a Java program to display the default value of primitive data types(int, boolean, char, long, double, byte) of Java.
 public class Main7 {
     public static void main(String[] args) {
         pre p = new pre();

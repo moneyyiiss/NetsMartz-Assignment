@@ -1,9 +1,12 @@
+//3. Write a program to give the example for ‘this’ operator.
 class r{
     String name;
     void setdata(String n){
+
         this.name = n;
     }
     void displaydata(){
+
         System.out.println(name);
     }
 }

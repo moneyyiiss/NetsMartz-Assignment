@@ -1,3 +1,4 @@
+//2. Write a program create a class ‘simpleobject‘. Using constructor display the message.
 class simpleobject {
     String message;
     simpleobject(String str){

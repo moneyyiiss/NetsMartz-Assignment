@@ -1,3 +1,4 @@
+//5. Write a program to check two strings are equal or not.
 import java.util.Scanner;
 public class Main5 {
     public static void main(String[] args) {

@@ -1,3 +1,6 @@
+// 4. Write a program for the following
+//        1. Example for call by value.
+//        2. Example for call by reference.
 class Main4{
     int data=5;
 
@@ -13,4 +16,5 @@ class Main4{
         System.out.println(op.data);
 
     }
-}  
+}
+// There are no call by reference in java

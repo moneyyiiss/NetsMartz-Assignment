@@ -1,4 +1,4 @@
-
+//6. Write a program to check whether the input character is a vowel or consonant.
 public class Main6 {
     public static void main(String[] args) {
 vol_con vc = new vol_con();

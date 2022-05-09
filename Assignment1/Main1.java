@@ -1,3 +1,4 @@
+//1. Write a program to create a room class, the attributes of this class is roomno, roomtype, roomarea and ACmachine. In this class the methods are setdata and displaydata.
 class room{
     int roomno;
     String roomtype;
